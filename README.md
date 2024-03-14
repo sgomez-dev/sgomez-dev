@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **React and Three js**
+- 🌱 I’m currently learning **React and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santi1503](https://github.com/Santi1503)
 
 - 📫 How to reach me **gomezdelatorre15@gmail.com**
 
-- ⚡ Fun fact **I am sociable**
+- ⚡ Fun fact **I like to play golf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
