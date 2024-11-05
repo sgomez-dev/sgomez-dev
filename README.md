@@ -5,7 +5,7 @@ Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarro
 
 <hr />
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ### 🔥 Proyectos Destacados
 - [Mi Página Profesional](https://github.com/Santi1503/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
