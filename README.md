@@ -44,9 +44,6 @@ Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarro
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
 
 <p align="left">
-  <a href="https://dev.to/santi1503" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="santi1503" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/santiago-gomez-de-la-torre-3a7b62249" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-gomez-de-la-torre-3a7b62249" height="30" width="40" />
   </a>
