@@ -37,8 +37,8 @@ Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarro
 </p>
 
 ### 📊 Mis estadísticas en GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santi1503&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santi1503&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santi1503&show_icons=true&locale=en&layout=compact)
 
 ### 🤝 Conéctate conmigo
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
