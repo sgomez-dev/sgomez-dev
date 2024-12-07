@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Santiago Gómez de la Torre
-### 🚀 Desarrollador Web & Entusiasta de IT 🌍
+### 🚀 Desarrollador Web 🌍
 
 Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarrollo web y la tecnología. Me dedico a crear soluciones digitales que sean tanto funcionales como visualmente atractivas. Actualmente, estoy en un viaje de aprendizaje con **React** y **desarrollo web** para llevar mis habilidades al siguiente nivel. 🚀
 
