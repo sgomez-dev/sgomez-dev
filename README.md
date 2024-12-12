@@ -9,7 +9,7 @@ Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarro
 
 ### 🔥 Proyectos Destacados
 - [Mi Página Profesional](https://github.com/Santi1503/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
-- [Proyectos de Python](https://github.com/Santi1503/ProyectosPython) - Colección de proyectos en Python, desde utilidades hasta scripts de automatización.
+- [Portafolio Profesinal](https://github.com/Santi1503/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
 
 ### 🛠️ Habilidades y Herramientas
 <p align="left">
