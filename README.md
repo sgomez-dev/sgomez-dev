@@ -55,6 +55,9 @@ Soy un apasionado ingeniero en informática de Guatemala, entusiasta del desarro
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=santi1503&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 💡 “Siempre estoy buscando la próxima línea de código que haga la diferencia.” 💡
