@@ -9,7 +9,8 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
 
 ### 🔥 Proyectos Destacados
 - [Mi Página Profesional](https://github.com/Santi1503/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
-- [Portafolio Profesional](https://github.com/Santi1503/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
+- [SGOMEZ](https://github.com/Santi1503/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
+- [EliteEstate - Manager](https://github.com/Santi1503/EliteEstate-Manager) - Una PWA, gestionada con Firebase y diseñada para profesionales inmobiliarios 
 
 ### 🛠️ Habilidades y Herramientas
 <p align="left">
