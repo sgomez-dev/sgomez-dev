@@ -8,9 +8,9 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ### 🔥 Proyectos Destacados
-- [Mi Página Profesional](https://github.com/Santi1503/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
-- [SGOMEZ](https://github.com/Santi1503/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
-- [EliteEstate - Manager](https://github.com/Santi1503/EliteEstate-Manager) - Una PWA, gestionada con Firebase y diseñada para profesionales inmobiliarios 
+- [Mi Página Profesional](https://github.com/sgomez-dev/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
+- [SGOMEZ](https://github.com/sgomez-dev/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
+- [EliteEstate - Manager](https://github.com/sgomez-dev/EliteEstate-Manager) - Una PWA, gestionada con Firebase y diseñada para profesionales inmobiliarios 
 
 ### 🛠️ Habilidades y Herramientas
 <p align="left">
@@ -38,14 +38,14 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
 </p>
 
 ### 📊 Mis estadísticas en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santi1503&show_icons=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santi1503&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgomez-dev&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sgomez-dev&show_icons=true&locale=en&layout=compact)
 
 ### 🤝 Conéctate conmigo
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
 
 <p align="left">
-  <a href="https://linkedin.com/in/santiago-gomez-de-la-torre-3a7b62249" target="blank">
+  <a href="https://linkedin.com/in/sgomez-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-gomez-de-la-torre-3a7b62249" height="30" width="40" />
   </a>
   <a href="https://fb.com/santi.gomez.568847" target="blank">
@@ -57,7 +57,7 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=santi1503&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sgomez-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
