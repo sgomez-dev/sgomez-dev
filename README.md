@@ -57,7 +57,7 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sgomez-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sgomez-dev&theme=onedark)](https://github.com/sgomez-dev/github-profile-trophy)
 
 ---
 
