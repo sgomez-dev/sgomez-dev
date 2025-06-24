@@ -38,8 +38,7 @@ Mi objetivo es contribuir a proyectos donde pueda aportar tanto en lógica como 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devops-workflow/jenkins-icons/master/icons/jenkins-logo-48x48.png
-  " width="40" title="Jenkins" />
+  <img src="https://raw.githubusercontent.com/devops-workflow/jenkins-icons/master/icons/jenkins-logo-48x48.png" width="40" title="Jenkins" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
