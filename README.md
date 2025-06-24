@@ -1,88 +1,81 @@
-# ¡Hola! 👋 Soy Santiago Gómez de la Torre
-### 🚀 Desarrollador Web 🌍
+# 👋 ¡Hola! Soy Santiago Gómez de la Torre
 
-Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarrollo web en los que pueda participar de manera proactiva. Mi enfoque es diseñar soluciones digitales que equilibren funcionalidad y estética. En este momento, estoy profundizando mis conocimientos en desarrollo web para perfeccionar mis habilidades y alcanzar nuevos desafíos profesionales. 🚀
+### 💻 Desarrollador Web & Apasionado por la Tecnología
 
-<hr />
+Soy **Ingeniero Informático** con una gran pasión por construir soluciones web modernas, funcionales y visualmente atractivas. Me encanta crear productos que combinan **arquitectura sólida** con **experiencias de usuario fluidas**, y siempre estoy buscando formas de mejorar cada línea de código que escribo.
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+Actualmente, me encuentro perfeccionando mis habilidades en **desarrollo fullstack**, explorando tecnologías como **Firebase, Kubernetes y AWS**, y diseñando interfaces animadas con **React, TailwindCSS y Framer Motion**.  
+Mi objetivo es contribuir a proyectos donde pueda aportar tanto en lógica como en diseño, siempre desde una mentalidad proactiva y en constante aprendizaje. 🚀
 
-### 🔥 Proyectos Destacados
-- [Mi Página Profesional](https://github.com/sgomez-dev/profesional-homepage) - Un sitio web profesional que muestra mis habilidades y proyectos.
-- [SGOMEZ](https://github.com/sgomez-dev/sgomez-portfolio) - Un sitio web de portafolio, animado con framer-motion y tailwindCSS.
-- [EliteEstate - Manager](https://github.com/sgomez-dev/EliteEstate-Manager) - Una PWA, gestionada con Firebase y diseñada para profesionales inmobiliarios 
+---
 
-### 🛠️ Habilidades y Herramientas
+<img align="right" alt="coding" width="340" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+### 🚀 Proyectos Destacados
+
+- 🎯 [**EliteEstate - Manager**](https://github.com/sgomez-dev/EliteEstate-Manager)  
+  Una PWA para profesionales inmobiliarios, con autenticación, gestión de propiedades y citas, construida con **React, Firebase y Framer Motion**.
+
+- 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez-portfolio)  
+  Mi portafolio animado, diseñado con **TailwindCSS** y transiciones dinámicas usando **Framer Motion**.
+
+- 🌐 [**Página Profesional**](https://github.com/sgomez-dev/profesional-homepage)  
+  Un sitio web que presenta mi perfil, proyectos y redes, como carta de presentación digital.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" width="40" title="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" title="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
 </p>
 
-### 📊 Mis estadísticas en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgomez-dev&show_icons=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sgomez-dev&show_icons=true&locale=en&layout=compact)
+---
 
-### 🤝 Conéctate conmigo
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
+### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <a href="https://linkedin.com/in/sgomez-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-gomez-de-la-torre-3a7b62249" height="30" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgomez-dev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgomez-dev&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🤝 ¡Conectemos!
+
+Estoy siempre abierto a nuevas oportunidades, colaboraciones y proyectos interesantes.  
+Puedes contactarme o seguir mi trabajo en:
+
+<p align="left">
+  <a href="https://linkedin.com/in/sgomez-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/santi.gomez.568847" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santi.gomez.568847" height="30" width="40" />
+  <a href="https://instagram.com/santigt1503" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/santigt1503" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santigt1503" height="30" width="40" />
+  <a href="https://fb.com/santi.gomez.568847" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-💡 “Siempre estoy buscando la próxima línea de código que haga la diferencia.” 💡
+> 💡 “Siempre estoy buscando la próxima línea de código que haga la diferencia.”
+
+---
