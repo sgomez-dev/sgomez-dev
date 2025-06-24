@@ -45,7 +45,7 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Jenkins/Jenkins-original-wordmark.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -64,9 +64,6 @@ Soy ingeniero informático, en búsqueda de proyectos de tecnología y desarroll
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-original-wordmark.svg" alt="shell" width="40" height="40"/>
   </a>
 </p>
 
