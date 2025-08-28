@@ -1,11 +1,12 @@
 # 👋 ¡Hola! Soy Santiago Gómez de la Torre
 
-### 💻 Desarrollador Web & Apasionado por la Tecnología
+### 💻 Desarrollador de software & Apasionado por la Tecnología
 
-Soy **Ingeniero Informático** con una gran pasión por construir soluciones web modernas, funcionales y visualmente atractivas. Me encanta crear productos que combinan **arquitectura sólida** con **experiencias de usuario fluidas**, y siempre estoy buscando formas de mejorar cada línea de código que escribo.
+Soy Santiago Gómez de la Torre Romero, ingeniero informático apasionado con sólidos conocimientos en TI y desarrollo web. Mi trayectoria profesional se ha desarrollado mediante experiencia práctica en administración de sistemas (SysAdmin), TI y desarrollo de software, impulsado por una mentalidad autodidacta y un interés constante por dominar herramientas como React, Node.js y CI/CD. Desde 2021, formé parte del programa de becas FUNIBER y posteriormente me integré al programa PROFER en la Universidad Europea del Atlántico, donde perfeccioné mis conocimientos técnicos y fortalecí mis habilidades de colaboración en equipos orientados al desarrollo de software y soluciones tecnológicas.
 
-Actualmente, me encuentro perfeccionando mis habilidades en **desarrollo fullstack**, explorando tecnologías como **Firebase, Kubernetes y AWS**, y diseñando interfaces animadas con **React, TailwindCSS y Framer Motion**.  
-Mi objetivo es contribuir a proyectos donde pueda aportar tanto en lógica como en diseño, siempre desde una mentalidad proactiva y en constante aprendizaje. 🚀
+Así mismo, trabajo como desarrollador de software multidisciplinario creando aplicaciones innovadoras centradas en el usuario. Actualmente, me encuentro desempeñando el rol de desarrollador de software en Evenbytes, donde utilizo Angular, Node.js, Firebase y Google Cloud para construir soluciones escalables y de alto impacto. He participado en eventos como Hack2Progress, que me ha permitido mejorar mi capacidad para innovar y desempeñarme bajo presión. Como organizador de GDG Santander, contribuyo activamente a la comunidad tecnológica local. Uno de mis desafíos más gratificantes ha sido construir EliteEstate Manager, una aplicación de gestión de propiedades desarrollada en colaboración con la agente inmobiliaria Irma Romero Morales. Este proyecto real me permitió aplicar mis habilidades técnicas para crear una solución adaptada a la gestión de propiedades, citas y zonas, una experiencia que ha profundizado mi comprensión de ambas industrias.
+
+ 🚀
 
 ---
 
