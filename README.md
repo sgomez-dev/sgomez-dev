@@ -16,11 +16,11 @@ Mi objetivo es contribuir a proyectos donde pueda aportar tanto en lógica como 
 - 🎯 [**EliteEstate - Manager**](https://github.com/sgomez-dev/EliteEstate-Manager)  
   Una PWA para profesionales inmobiliarios, con autenticación, gestión de propiedades y citas, construida con **React, Firebase y Framer Motion**.
 
-- 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez-portfolio)  
+- 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez)  
   Mi portafolio animado, diseñado con **TailwindCSS** y transiciones dinámicas usando **Framer Motion**.
 
-- 🌐 [**Página Profesional**](https://github.com/sgomez-dev/sgomez)  
-  Un sitio web que presenta mi perfil, proyectos y redes, como carta de presentación digital.
+- 🌐 [**Página de documentacion**](https://github.com/sgomez-dev/docs)  
+  Un sitio web que presenta mi stack y la documentación que suelo usar para instalar o inicializar proyectos.
 
 ---
 
