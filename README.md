@@ -1,29 +1,35 @@
-# 👋 ¡Hola! Soy Santiago Gómez de la Torre
+# 👋 ¡Hola! Soy Santiago Gómez de la Torre  
 
-### 💻 Desarrollador de software & Apasionado por la Tecnología
+### 💻 Desarrollador de Software | 🚀 Apasionado por la Tecnología  
 
-Soy Santiago Gómez de la Torre Romero, ingeniero informático apasionado con sólidos conocimientos en TI y desarrollo web. Mi trayectoria profesional se ha desarrollado mediante experiencia práctica en administración de sistemas (SysAdmin), TI y desarrollo de software, impulsado por una mentalidad autodidacta y un interés constante por dominar herramientas como React, Node.js y CI/CD. Desde 2021, formé parte del programa de becas FUNIBER y posteriormente me integré al programa PROFER en la Universidad Europea del Atlántico, donde perfeccioné mis conocimientos técnicos y fortalecí mis habilidades de colaboración en equipos orientados al desarrollo de software y soluciones tecnológicas.
+Soy **Santiago Gómez de la Torre Romero**, ingeniero informático con experiencia en **administración de sistemas (SysAdmin)**, **TI** y **desarrollo de software**. Me motiva aprender de forma constante y aplicar tecnologías modernas para crear soluciones innovadoras y escalables.  
 
-Así mismo, trabajo como desarrollador de software multidisciplinario creando aplicaciones innovadoras centradas en el usuario. Actualmente, me encuentro desempeñando el rol de desarrollador de software en Evenbytes, donde utilizo Angular, Node.js, Firebase y Google Cloud para construir soluciones escalables y de alto impacto. He participado en eventos como Hack2Progress, que me ha permitido mejorar mi capacidad para innovar y desempeñarme bajo presión. Como organizador de GDG Santander, contribuyo activamente a la comunidad tecnológica local. Uno de mis desafíos más gratificantes ha sido construir EliteEstate Manager, una aplicación de gestión de propiedades desarrollada en colaboración con la agente inmobiliaria Irma Romero Morales. Este proyecto real me permitió aplicar mis habilidades técnicas para crear una solución adaptada a la gestión de propiedades, citas y zonas, una experiencia que ha profundizado mi comprensión de ambas industrias.🚀
+Desde 2021 participé en programas de formación como **FUNIBER** y **PROFER (Universidad Europea del Atlántico)**, donde perfeccioné mis conocimientos técnicos y reforcé mis habilidades de trabajo en equipo.  
+
+Actualmente, me desempeño como **Desarrollador de Software en Evenbytes**, trabajando con **Angular, Node.js, Firebase y Google Cloud** en proyectos de alto impacto. Además, participo activamente en la comunidad tecnológica como **organizador de GDG Santander** y en eventos como **Hack2Progress**, donde he potenciado mi capacidad de innovar bajo presión.  
+
+Uno de mis proyectos más significativos es **EliteEstate Manager**, una aplicación de gestión inmobiliaria desarrollada junto con la agente inmobiliaria **Irma Romero Morales**, que integra funcionalidades de gestión de propiedades, citas y zonas. Este reto me permitió unir mi pasión tecnológica con una aplicación práctica en el sector inmobiliario.  
 
 ---
 
 <img align="right" alt="coding" width="340" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados  
 
 - 🎯 [**EliteEstate - Manager**](https://github.com/sgomez-dev/EliteEstate-Manager)  
-  Una PWA para profesionales inmobiliarios, con autenticación, gestión de propiedades y citas, construida con **React, Firebase y Framer Motion**.
+  PWA para profesionales inmobiliarios, con autenticación, gestión de propiedades y citas.  
+  **Stack:** React, Firebase, Framer Motion  
 
 - 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez)  
-  Mi portafolio animado, diseñado con **TailwindCSS** y transiciones dinámicas usando **Framer Motion**.
+  Portafolio animado con diseño minimalista y transiciones dinámicas.  
+  **Stack:** TailwindCSS, Framer Motion  
 
-- 🌐 [**Página de documentacion**](https://github.com/sgomez-dev/docs)  
-  Un sitio web que presenta mi stack y la documentación que suelo usar para instalar o inicializar proyectos.
+- 🌐 [**Docs Page**](https://github.com/sgomez-dev/docs)  
+  Sitio web con documentación de mi stack y guías de instalación/inicialización de proyectos.  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
@@ -49,7 +55,7 @@ Así mismo, trabajo como desarrollador de software multidisciplinario creando ap
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub  
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sgomez-dev&show_icons=true&theme=radical" width="48%" />
@@ -58,10 +64,9 @@ Así mismo, trabajo como desarrollador de software multidisciplinario creando ap
 
 ---
 
-### 🤝 ¡Conectemos!
+### 🤝 Conectemos  
 
-Estoy siempre abierto a nuevas oportunidades, colaboraciones y proyectos interesantes.  
-Puedes contactarme o seguir mi trabajo en:
+Siempre estoy abierto a **nuevas oportunidades, colaboraciones y proyectos interesantes**.  
 
 <p align="left">
   <a href="https://linkedin.com/in/sgomez-dev" target="_blank">
@@ -73,10 +78,10 @@ Puedes contactarme o seguir mi trabajo en:
   <a href="https://fb.com/santi.gomez.568847" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
+</p>  
 
 ---
 
-> 💡 “Siempre estoy buscando la próxima línea de código que haga la diferencia.”
+> 💡 *“El código no solo resuelve problemas, también crea oportunidades.”*  
 
 ---
