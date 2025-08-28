@@ -19,7 +19,7 @@ Mi objetivo es contribuir a proyectos donde pueda aportar tanto en lógica como 
 - 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez-portfolio)  
   Mi portafolio animado, diseñado con **TailwindCSS** y transiciones dinámicas usando **Framer Motion**.
 
-- 🌐 [**Página Profesional**](https://github.com/sgomez-dev/profesional-homepage)  
+- 🌐 [**Página Profesional**](https://github.com/sgomez-dev/sgomez)  
   Un sitio web que presenta mi perfil, proyectos y redes, como carta de presentación digital.
 
 ---
