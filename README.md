@@ -33,7 +33,7 @@ Uno de mis proyectos más significativos es **EliteEstate Manager**, una aplicac
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,angular,tailwind,nextjs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,angular,tailwind,nextjs,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
@@ -41,7 +41,7 @@ Uno de mis proyectos más significativos es **EliteEstate Manager**, una aplicac
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,sonarqube,gcp,aws,linux"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gcp,aws,linux,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
@@ -53,7 +53,7 @@ Uno de mis proyectos más significativos es **EliteEstate Manager**, una aplicac
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,postman,framer"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,postman"/></td>
     </tr>
 </table>
 
