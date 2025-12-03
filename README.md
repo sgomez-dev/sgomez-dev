@@ -20,7 +20,7 @@ Uno de mis proyectos más significativos es **EliteEstate Manager**, una aplicac
   PWA para profesionales inmobiliarios, con autenticación, gestión de propiedades y citas.  
   **Stack:** React, Firebase, Framer Motion  
 
-- 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez)  
+- 🧠 [**SGOMEZ Portfolio**](https://github.com/sgomez-dev/sgomez-3d)  
   Portafolio animado con diseño minimalista y transiciones dinámicas.  
   **Stack:** TailwindCSS, Framer Motion  
 
