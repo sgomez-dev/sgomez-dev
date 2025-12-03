@@ -1,4 +1,4 @@
-# 👋 Hey, soy **Santiago Gómez**
+# 👋 Hey, soy **Santiago Gómez de la Torre Romero**
 
 ### 💻 Desarrollador de Software | 🧪 Creador de Proyectos | ⚡ Me gusta romper y construir cosas
 
