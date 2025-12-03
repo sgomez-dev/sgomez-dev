@@ -2,7 +2,7 @@
 
 ### 💻 Desarrollador de Software | 🧪 Creador de Proyectos | ⚡ Me gusta romper y construir cosas
 
-Soy **Santiago Gómez de la Torre**, desarrollador de software con background en **SysAdmin**, **TI** y **cloud**. Me gusta aprender rápido, experimentar y crear proyectos que me reten de verdad.
+Soy **Santiago Gómez de la Torre Romero**, desarrollador de software con background en **SysAdmin**, **TI** y **cloud**. Me gusta aprender rápido, experimentar y crear proyectos que me reten de verdad.
 
 Trabajo actualmente en **Evenbytes** usando **Angular, Node.js, Firebase y Google Cloud**, creando herramientas internas y sistemas que usan los usuarios.  
 Además, formo parte del ecosistema tech de Cantabria como **organizador de GDG Santander** y participo en eventos como **Hack2Progress**.
