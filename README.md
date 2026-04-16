@@ -1,9 +1,19 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;SysAdmin+%7C+Cloud+%7C+Producto;Lo+que+no+existe%2C+lo+creo." alt="Typing SVG" />
+
+</div>
+
 # Santiago Gómez de la Torre Romero
 ### `sgomez.dev` · Cantabria, España
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
 Desarrollador full-stack en **Evenbytes**, con background en SysAdmin, cloud y arquitectura de producto. Organizo **GDG Santander** y construyo proyectos que me reten de verdad.
 
 `Angular` `Node.js` `GCP` · Hack2Progress · GDG Santander
+
+<br clear="right"/>
 
 ---
 
@@ -29,7 +39,7 @@ App del clima rápida, ligera y offline-first. Sin dependencias innecesarias.
 
 ## 🎙️ En el aire — Del PR al P&L
 
-Podcast en español para developers que quieren entender el negocio detrás del código.  
+Podcast en español para developers que quieren entender el negocio detrás del código.
 De Pull Request a Profit & Loss.
 
 [![Spotify](https://img.shields.io/badge/Disponible_en_Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/2yNCVgcymf1HfOKI6WbJ5m?si=d2383f5d8c264acd)
@@ -64,4 +74,6 @@ De Pull Request a Profit & Loss.
 
 ---
 
-> *"Lo que no existe, lo creo. Lo que existe, lo mejoro."*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sgomez-dev&color=534AB7&style=flat-square&label=Visitas+al+perfil" />
+</div>
