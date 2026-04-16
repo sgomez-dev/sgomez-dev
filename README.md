@@ -53,7 +53,7 @@ Podcast en español para developers que quieren entender el negocio detrás del 
 
 | | |
 |---|---|
-| **Lenguajes** | ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![GraphQL](https://skillicons.dev/icons?i=graphql) |
+| **Lenguajes** | ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Bash](https://skillicons.dev/icons?i=bash) ![Rust](https://skillicons.dev/icons?i=rust) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
 | **Frontend** | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) |
 | **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) |
 | **DevOps** | ![GCP](https://skillicons.dev/icons?i=gcp) ![Azure](https://skillicons.dev/icons?i=azure) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Linux](https://skillicons.dev/icons?i=linux) ![Nginx](https://skillicons.dev/icons?i=nginx) |
