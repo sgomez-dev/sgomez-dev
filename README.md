@@ -32,7 +32,7 @@ App del clima rápida, ligera y offline-first. Sin dependencias innecesarias.
 Podcast en español para developers que quieren entender el negocio detrás del código.  
 De Pull Request a Profit & Loss.
 
-[![Spotify](https://img.shields.io/badge/Disponible_en_Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Disponible_en_Spotify-1DB954?style=flat&logo=spotify&logoColor=white)]([https://open.spotify.com](https://open.spotify.com/show/2yNCVgcymf1HfOKI6WbJ5m?si=010b82cecb0449f5))
 
 ---
 
