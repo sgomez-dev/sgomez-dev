@@ -48,7 +48,6 @@ Podcast en español para developers que quieren entender el negocio detrás del 
 [![Spotify](https://img.shields.io/badge/Escúchalo_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2yNCVgcymf1HfOKI6WbJ5m?si=d2383f5d8c264acd)
 
 </div>
----
 
 ## Stack
 
