@@ -39,11 +39,15 @@ App del clima rápida, ligera y offline-first. Sin dependencias innecesarias.
 
 ## 🎙️ En el aire — Del PR al P&L
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=1DB954&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%8E%99%EF%B8%8F+Nuevo+podcast+para+devs;De+Pull+Request+a+Profit+%26+Loss;El+negocio+detr%C3%A1s+del+c%C3%B3digo;Ya+disponible+en+Spotify" alt="Podcast typing animation" />
+
 Podcast en español para developers que quieren entender el negocio detrás del código.
-De Pull Request a Profit & Loss.
 
-[![Spotify](https://img.shields.io/badge/Disponible_en_Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/2yNCVgcymf1HfOKI6WbJ5m?si=d2383f5d8c264acd)
+[![Spotify](https://img.shields.io/badge/Escúchalo_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2yNCVgcymf1HfOKI6WbJ5m?si=d2383f5d8c264acd)
 
+</div>
 ---
 
 ## Stack
