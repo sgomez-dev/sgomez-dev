@@ -72,7 +72,7 @@ Podcast en español para developers que quieren entender el negocio detrás del 
 ## Estadísticas
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sgomez-dev&show_icons=true&theme=transparent&hide_border=true&title_color=888780&text_color=888780&icon_color=534AB7" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sgomez-dev&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=888780&sideLabels=888780&currStreakNum=888780&sideNums=888780&dates=888780" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgomez-dev&layout=compact&theme=transparent&hide_border=true&title_color=888780&text_color=888780" width="48%" />
 </p>
 
