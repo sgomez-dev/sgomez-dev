@@ -19,21 +19,29 @@ Desarrollador full-stack en **Evenbytes**, con background en SysAdmin, cloud y a
 
 ## Proyectos destacados
 
+**SGOMEZ CLI**
+Developer toolkit que scaffoldea, configura y lanza proyectos full-stack en 14 frameworks — JS, Python y Go — en segundos. Docker, CI/CD, auth y base de datos incluidos.
+`Node.js` `Commander.js` `TypeScript` `npm`
+🔗 [cli.sgomez.dev](https://cli.sgomez.dev)
+
+**NudaUI**
+Animaciones CSS & JS de copy-paste que funcionan en cualquier stack. Cero dependencias, cero npm installs, cero build steps. Accessibility-first por defecto.
+`CSS` `JavaScript` `Framework-agnostic`
+🔗 [nudaui.dev](https://nudaui.dev)
+
+**SGOMEZ Blog**
+Blog técnico personal sobre desarrollo, producto y emprendimiento.
+`Next.js` `MDX` `Tailwind`
+🔗 [blog.sgomez.dev](https://blog.sgomez.dev)
+
 **SGOMEZ — Portfolio OS**
 Un portafolio interactivo que simula un sistema operativo en el navegador. Mis proyectos, como ventanas.
 `Next.js` `Vite` `Tailwind` `Motion`
+🔗 [sgomez.dev](https://sgomez.dev)
 
 **EliteEstate Manager**
 App para profesionales inmobiliarios: gestión de propiedades, citas y zonas con UX fluida.
 `React` `Firebase` `Framer Motion`
-
-**SGOMEZ Browser**
-Mi propio navegador experimental. Porque sí. Construido con Tauri y Rust desde cero.
-`Tauri` `Rust` `Vue`
-
-**Weather PWA**
-App del clima rápida, ligera y offline-first. Sin dependencias innecesarias.
-`Vite` `PWA` `Tailwind`
 
 ---
 
@@ -54,10 +62,11 @@ Podcast en español para developers que quieren entender el negocio detrás del 
 | | |
 |---|---|
 | **Lenguajes** | ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Bash](https://skillicons.dev/icons?i=bash) ![Rust](https://skillicons.dev/icons?i=rust) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
-| **Frontend** | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) |
+| **Frontend** | ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Nuxt](https://skillicons.dev/icons?i=nuxtjs) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) |
 | **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) |
 | **DevOps** | ![GCP](https://skillicons.dev/icons?i=gcp) ![Azure](https://skillicons.dev/icons?i=azure) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Linux](https://skillicons.dev/icons?i=linux) ![Nginx](https://skillicons.dev/icons?i=nginx) |
 | **Database** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+
 ---
 
 ## Estadísticas
