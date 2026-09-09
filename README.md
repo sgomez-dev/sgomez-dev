@@ -94,9 +94,8 @@ Proyecto personal en TypeScript, unas 4.800 líneas y 88 tests. Validación walk
 
 ## Estadísticas
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=sgomez-dev&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=888780&sideLabels=888780&currStreakNum=888780&sideNums=888780&dates=888780" width="48%" alt="Racha de contribuciones de sgomez-dev en GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgomez-dev&layout=compact&theme=transparent&hide_border=true&title_color=888780&text_color=888780" width="48%" alt="Lenguajes más usados por sgomez-dev" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sgomez-dev&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=888780&sideLabels=888780&currStreakNum=888780&sideNums=888780&dates=888780" width="70%" alt="Racha de contribuciones de sgomez-dev en GitHub" />
 </p>
 
 ---
