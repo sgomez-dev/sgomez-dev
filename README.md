@@ -10,18 +10,25 @@ Full-Stack Engineer · Cofundador de [SkyQuetz Consulting](https://skyquetz.com)
 [![Portfolio](https://img.shields.io/badge/sgomez.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://sgomez.dev)
 [![Blog](https://img.shields.io/badge/blog-534AB7?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.sgomez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sgomez-dev)
-[![CV](https://img.shields.io/badge/CV-534AB7?style=for-the-badge&logo=readdotcv&logoColor=white)](https://sgomez.dev/CV_Santiago_G%C3%B3mez_de_la_Torre_Romero.pdf)
 [![Email](https://img.shields.io/badge/contacto@sgomez.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@sgomez.dev)
 
-<br/>
-
-<a href="https://claude-canvas.sgomez.dev">
-  <img src="./assets/claude-canvas-demo.gif" width="85%" alt="Claude Canvas: un panel interactivo se abre junto a Claude Code, se elige un fichero y la respuesta vuelve al agente como un valor exacto" />
-</a>
-
-<sub><b>Claude Canvas</b> · Claude Code no tiene pantalla. Le di una.</sub>
-
 </div>
+
+<b>Claude Code no tiene pantalla. Le di una.</b>
+
+```console
+$ claude "¿cuál de estos refactorizo?"
+
+  ┌ picker ─────────────────────────────────┐
+  │ ▸ canvas/src/runtime/server.ts          │
+  │   canvas/src/host/tmux.ts               │
+  │   canvas/src/canvases/diff.tsx          │
+  └─────────────────────────────────────────┘
+
+→ {"status":"selected","data":{"selectedIds":["server.ts"]}}
+```
+
+El agente recibe un valor exacto, no prosa que tenga que interpretar. [Ver Claude Canvas](https://claude-canvas.sgomez.dev)
 
 ---
 
@@ -33,14 +40,14 @@ Lo que construyo lo mido antes de contarlo. Cuando un número baja, ese también
 
 ## Los números
 
-| Qué                                                  | Cuánto                     | Dónde                                                               |
-| ---------------------------------------------------- | -------------------------- | ------------------------------------------------------------------- |
-| Precisión del primer resultado en búsqueda semántica | **0,67 → 0,80** hit@1      | [NudaUI RAG](https://blog.sgomez.dev/rag-busqueda-semantica-nudaui) |
-| Componentes UI copy-paste, cero dependencias         | **1.503** en 81 categorías | [NudaUI](https://nudaui.dev)                                        |
-| Tests y sistemas operativos en CI                    | **600+** tests, **3** SO   | [Claude Canvas](https://github.com/sgomez-dev/claude-canvas)        |
-| Frameworks que scaffoldea en un comando              | **14**                     | [sgomez-cli](https://cli.sgomez.dev)                                |
-| Aislamiento entre tenants verificado por test        | **48** tests sobre RLS     | EliteEstate Manager                                                 |
-| Repositorios públicos                                | **40+**                    | [github.com/sgomez-dev](https://github.com/sgomez-dev)              |
+| Qué | Cuánto | Dónde |
+|---|---|---|
+| Precisión del primer resultado en búsqueda semántica | **0,67 → 0,80** hit@1 | [NudaUI RAG](https://blog.sgomez.dev/rag-busqueda-semantica-nudaui) |
+| Componentes UI copy-paste, cero dependencias | **1.503** en 81 categorías | [NudaUI](https://nudaui.dev) |
+| Tests y sistemas operativos en CI | **600+** tests, **3** SO | [Claude Canvas](https://github.com/sgomez-dev/claude-canvas) |
+| Frameworks que scaffoldea en un comando | **14** | [sgomez-cli](https://cli.sgomez.dev) |
+| Aislamiento entre tenants verificado por test | **48** tests sobre RLS | EliteEstate Manager |
+| Repositorios públicos | **40+** | [github.com/sgomez-dev](https://github.com/sgomez-dev) |
 
 ---
 
@@ -72,12 +79,6 @@ Después [reescribí la documentación](https://blog.sgomez.dev/nudaui-agent-fri
 
 `Next.js` `TypeScript` `CSS` `Python` `FastAPI` `Voyage AI` · 1.503 componentes · 81 categorías · MIT
 
-### [Synentria](https://synentria.skyquetz.com) · `producto de SkyQuetz`
-
-Motor de auditoría SEO y GEO. Le pasas una URL y devuelve hallazgos priorizados con parches aplicables. Ningún hallazgo lo decide un modelo de lenguaje: todos salen de comprobaciones deterministas, y el modelo solo redacta prosa alrededor de algo que ya existe. Escribí el motor.
-
-`TypeScript` `Nuxt` `Node` `Evals`
-
 ### Medir primero · `newsletter`
 
 Quincenal, en español, sobre lo que aprendo construyendo esto. Números reales, incluidos los que no salen.
@@ -88,13 +89,14 @@ Quincenal, en español, sobre lo que aprendo construyendo esto. Números reales,
 ## Open source que mantengo
 
 <p align="center">
-  <a href="https://github.com/sgomez-dev/claude-canvas">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgomez-dev&repo=claude-canvas&bg_color=00000000&title_color=534AB7&icon_color=534AB7&text_color=888780&hide_border=true" alt="Claude Canvas" />
-  </a>
-  <a href="https://github.com/sgomez-dev/sgomez-cli">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgomez-dev&repo=sgomez-cli&bg_color=00000000&title_color=534AB7&icon_color=534AB7&text_color=888780&hide_border=true" alt="sgomez-cli" />
-  </a>
+  <a href="https://github.com/sgomez-dev/claude-canvas"><img src="https://img.shields.io/github/stars/sgomez-dev/claude-canvas?style=for-the-badge&logo=github&color=534AB7&labelColor=0d1117&label=claude-canvas" alt="Estrellas de claude-canvas" /></a>
+  <a href="https://github.com/sgomez-dev/sgomez-cli"><img src="https://img.shields.io/github/stars/sgomez-dev/sgomez-cli?style=for-the-badge&logo=github&color=534AB7&labelColor=0d1117&label=sgomez-cli" alt="Estrellas de sgomez-cli" /></a>
+  <a href="https://www.npmjs.com/package/sgomez-cli"><img src="https://img.shields.io/npm/v/sgomez-cli?style=for-the-badge&logo=npm&color=534AB7&labelColor=0d1117" alt="Versión en npm de sgomez-cli" /></a>
 </p>
+
+**[Claude Canvas](https://github.com/sgomez-dev/claude-canvas)** · Plugin de Claude Code que le abre un panel interactivo de terminal. Nueve tipos de panel, transporte propio por socket local y CI en Linux, macOS y Windows.
+
+**[NudaUI](https://nudaui.dev)** · La librería de arriba, con su catálogo consumible por agentes y la búsqueda semántica encima.
 
 **[sgomez-cli](https://cli.sgomez.dev)** · Scaffoldea, configura y despliega proyectos en 14 frameworks de JS, Python y Go. Añade Docker, CI/CD, auth, base de datos y testing a repos que ya existen, y trae `sgomez doctor` para diagnosticar el estado de uno. 73 tests, publicada en npm.
 
@@ -177,10 +179,7 @@ El catálogo de NudaUI también se consume estructurado desde el servidor, sin p
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sgomez-dev&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=888780&sideLabels=888780&currStreakNum=888780&sideNums=888780&dates=888780" alt="Racha de contribuciones de sgomez-dev" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgomez-dev&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=534AB7&text_color=888780" alt="Lenguajes más usados" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sgomez-dev&bg_color=00000000&color=534AB7&line=534AB7&point=888780&area=true&hide_border=true" alt="Gráfico de actividad de sgomez-dev" />
+<img width="60%" src="https://streak-stats.demolab.com?user=sgomez-dev&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=888780&sideLabels=888780&currStreakNum=888780&sideNums=888780&dates=888780" alt="Racha de contribuciones de sgomez-dev" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgomez-dev/sgomez-dev/output/snake-dark.svg" />
